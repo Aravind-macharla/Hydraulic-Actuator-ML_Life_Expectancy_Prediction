@@ -3,6 +3,12 @@ The files in this repository are only a partial representation of the actual pro
 The original work at Defence Research and Development Organisation (DRDO), India was much larger, highly data-oriented, and involved confidential ML model development.
 Due to the sensitive nature of the research, the complete datasets, code, and detailed findings cannot be shared here.
 These files are uploaded on GitHub to reflect my work as a Research Intern at Defence Research and Development Organisation (DRDO) – Research Centre Imarat (RCI), Hyderabad, Control System Laboratory.
+This repository provides a sample implementation of a condition monitoring and predictive maintenance system for hydraulic systems.
+
+⚠️ Disclaimer:
+The original project was developed as part of confidential research work carried out at DRDO Hyderabad.
+Due to the sensitive nature of the data and test cases, the original datasets, models, and proprietary code cannot be shared.
+The code and examples in this repository are representative samples meant to demonstrate the methodology and workflow only.
 
 ⚙️ Actuation Systems & Hydraulic Actuator Project with Life Prediction ML Model
 📌 Project Overview
